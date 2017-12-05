@@ -1,1 +1,1 @@
-worker: node Baifern.js
+worker: node Baifernbot.js
