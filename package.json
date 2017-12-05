@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node Baifernbot.js"
   },
-  "depencencies": {
+  "dependencies": {
     "discord.js": "11.1.0",
     "request": "2.81.0"
   }
