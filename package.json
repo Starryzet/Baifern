@@ -1,0 +1,14 @@
+{
+  "name": "Test",
+  "description": "Test",
+  "version": "0.0.0",
+  "main": "Baifernbot.js",
+  "scripts": {
+    "start": "node Baifernbot.js"
+  },
+  "depencencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}  
+    
